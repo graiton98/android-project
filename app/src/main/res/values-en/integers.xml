@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="orderInCategory">115</integer>
+    <integer name="orderInCategory5">5</integer>
+    <integer name="orderInCategory10">10</integer>
+    <integer name="MaximJugadorsInt">2</integer>
+</resources>

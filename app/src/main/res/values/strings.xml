@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aplicacio24</string>
+    <string name="aplicacion">Aplicación</string>
+    <string name="jugar">Jugar</string>
+    <string name="configurar">Configurar</string>
+    <string name="acercaDe">Acerca de</string>
+    <string name="salir">Salir</string>
+    <string name="text_acercaDe">Esta aplicación ha sido desarrollada como ejemplo en el módulo de Diseño de Interfícies Web para demostrar cómo pueden lanzar nuevas actividades desde la actividad principal.</string>
+    <string name="title">Configuracion</string>
+    <string name="titleItem2">Acerca de...</string>
+    <string name="menucercar">Cercar</string>
+    <string name="pa1_title">Tipo de gráficos</string>
+    <string name="pa1_key">musica</string>
+    <string name="pa1_summary">Se reproduce música de fondo</string>
+    <string name="pa2_title">Tipo de gráficos</string>
+    <string name="pa2_key">graficos</string>
+    <string name="pa2_summary">Se escoge la representación de gráficos</string>
+    <string name="pa3_title">Número de fragmentos</string>
+    <string name="pa3_key">fragmentos</string>
+    <string name="pa3_summary">En cuántos trozos se divide un asteroide</string>
+    <string name="modoMultijugadorCategory">Modo Multijugador</string>
+    <string name="ActivarModoMultijugador">Activar Modo Multijugador</string>
+    <string name="MaximoDeJugadores">Maximo de jugadores</string>
+    <string name="TipoDeConexion">Tipo de conexión</string>
+    <string name="ActivarModoSensors">Activar Sensors</string>
+    <string name="key_sensor">sensors</string>
+</resources>

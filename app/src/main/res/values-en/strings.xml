@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacio24</string>
+    <string name="aplicacion">Application</string>
+    <string name="jugar">Play</string>
+    <string name="configurar">Configurate</string>
+    <string name="acercaDe">About</string>
+    <string name="salir">Exit</string>
+    <string name="text_acercaDe">This application has been developed as example in Web Interface Design to show how to throw new activities from main activity.</string>
+    <string name="title">Configuration</string>
+    <string name="titleItem2">About...</string>
+    <string name="menucercar">Search</string>
+    <string name="pa1_title">Types of graphics</string>
+    <string name="pa1_key">music</string>
+    <string name="pa1_summary">Background music is played</string>
+    <string name="pa2_title">Types of graphics</string>
+    <string name="pa2_key">graphics</string>
+    <string name="pa2_summary">Graphics representation is chosen</string>
+    <string name="pa3_title">Number of fragments</string>
+    <string name="pa3_key">fragments</string>
+    <string name="pa3_summary">In how many pieces an asteroid is divided</string>
+    <string name="modoMultijugadorCategory">Modo Multijugador</string>
+    <string name="ActivarModoMultijugador">Activar Modo Multijugador</string>
+    <string name="MaximoDeJugadores">Maximo de jugadores</string>
+    <string name="TipoDeConexion">Tipo de conexión</string>
+    <string name="ActivarModoSensors">Activate Sensors</string>
+    <string name="key_sensor">sensors</string>
+</resources>

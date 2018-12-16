@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/pa1_key"
+        android:summary="@string/pa1_summary"
+        android:title="@string/pa1_title" />
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/tipusGrafics"
+        android:entryValues="@array/tipusGraficsValors"
+        android:key="@string/pa2_key"
+        android:summary="@string/pa2_summary"
+        android:title="@string/pa2_title" />
+    <EditTextPreference
+        android:defaultValue="1"
+        android:key="@string/pa3_key"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/pa3_summary"
+        android:title="@string/pa3_title" />
+    <PreferenceCategory android:title="@string/modoMultijugadorCategory">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="check_box_preference_1"
+            android:title="@string/ActivarModoMultijugador" />
+        <EditTextPreference
+            android:defaultValue="2"
+            android:key="edit_text_preference_1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/MaximoDeJugadores" />
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/tipusConexio"
+            android:entryValues="@array/tipusConexioValors"
+            android:key="list_preference_1"
+            android:title="@string/TipoDeConexion" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/key_sensor"
+            android:title="@string/ActivarModoSensors" />
+    </PreferenceCategory>
+</PreferenceScreen>

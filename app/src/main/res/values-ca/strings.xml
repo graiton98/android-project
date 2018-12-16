@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacio24</string>
+    <string name="aplicacion">Aplicació</string>
+    <string name="jugar">Jugar</string>
+    <string name="configurar">Configurar</string>
+    <string name="acercaDe">Sobre que</string>
+    <string name="salir">Sortir</string>
+    <string name="text_acercaDe">Aquesta aplicació ha estat desenvolupada com exemple en el mòdul de Disseny d\'Interfícies Web per demostrar com es pot llançar noves aplicacions des de l\'aplicació principal.</string>
+    <string name="title">Configuració</string>
+    <string name="titleItem2">Sobre que...</string>
+    <string name="menucercar">Cercar</string>
+    <string name="pa1_title">Tipus de gràfics</string>
+    <string name="pa1_key">música</string>
+    <string name="pa1_summary">Es reprodueix música de fons</string>
+    <string name="pa2_title">Tipus de gràfics</string>
+    <string name="pa2_key">gràfics</string>
+    <string name="pa2_summary">S\'elegeix la representació de gràfics</string>
+    <string name="pa3_title">Nombre de fragments</string>
+    <string name="pa3_key">fragments</string>
+    <string name="pa3_summary">En quants fragments es divideix un asteroide</string>
+    <string name="modoMultijugadorCategory">Modo Multijugador</string>
+    <string name="ActivarModoMultijugador">Activar Modo Multijugador</string>
+    <string name="MaximoDeJugadores">Maximo de jugadores</string>
+    <string name="TipoDeConexion">Tipo de conexión</string>
+    <string name="ActivarModoSensors">Activar Sensors</string>
+    <string name="key_sensor">sensors</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonWidth">200dp</dimen>
+    <dimen name="marginTopTitle">50dp</dimen>
+    <dimen name="marginBottomTitleLand">10dp</dimen>
+    <dimen name="marginLeftButton">50dp</dimen>
+    <dimen name="marginLeftButtonXLarge">150dp</dimen>
+    <dimen name="marginRightButtonXLarge">150dp</dimen>
+    <dimen name="marginRightButton">50dp</dimen>
+    <dimen name="marginBottomTitle">30dp</dimen>
+    <dimen name="textSizeTitle">30sp</dimen>
+</resources>

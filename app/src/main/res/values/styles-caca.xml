@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="tema_aplicacio" parent="Theme.AppCompat.DayNight">
+        <item name="android:textColor">#010EFA</item>
+        <item name="android:background">#76FD00</item>
+    </style>
+    <style name="tema_aplicacio.button" parent="Theme.AppCompat.DayNight">
+        <item name="android:textColor">#FC0000</item>
+    </style>
+    <style name="Dark" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
